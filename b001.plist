@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://115.28.149.68:8080/app/H5A0A3D77_0808015800.ipa</string>
+     <string>http://115.28.149.68:8080/app/b001.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
